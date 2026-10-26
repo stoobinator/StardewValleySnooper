@@ -1,0 +1,10 @@
+{
+  "Name": "Snooper",
+  "Author": "stoobinator",
+  "Version": "1.0.0",
+  "Description": "Allows you to snoop around your current location while paused",
+  "UniqueID": "stoobinator.snooper",
+  "EntryDll": "snooper.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
